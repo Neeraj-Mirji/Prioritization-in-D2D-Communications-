@@ -4,11 +4,8 @@ Many disasters and natural calamities are occurring these days, and their freque
 
 ## Following are the Objectives of the Project
 The objectives of this project are mentioned below:
-• To group d2d devices based on their application
-• Create clusters in each group using k means.
-• Provide more resources to D2D users carrying out public
-safety communications .
-• To calculate the SINR values of the UE devices in the
-newly created shards
-• To calculate throughput and end to end delay for public
-safety shard and social media shard.
+* To group d2d devices based on their application
+* Create clusters in each group using k means.
+* Provide more resources to D2D users carrying out public safety communications .
+* To calculate the SINR values of the UE devices in the newly created shards
+* To calculate throughput and end to end delay for public safety shard and social media shard.
